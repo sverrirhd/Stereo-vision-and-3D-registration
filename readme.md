@@ -51,12 +51,12 @@ To generate 3D points from 2D images one has to perform triangulation. After rec
 
 ![image](https://user-images.githubusercontent.com/35537164/162451604-9bb0d8a4-f574-44d7-8ce4-f829106c42b1.png)
 
-5. Generate 3D point clouds
+### 5. Generate 3D point clouds
 
 ![image](https://user-images.githubusercontent.com/35537164/162455021-5e9f49d2-9b49-4939-a164-7cb920283bc3.png)
 
 
-6. Stitch together the 3D pointclouds
+### 6. Stitch together the 3D pointclouds
 
 ![image](https://user-images.githubusercontent.com/35537164/162455101-65e7878a-3c2f-4e38-b607-0b487628a8c7.png)
 
