@@ -61,4 +61,4 @@ To generate 3D points from 2D images one has to perform triangulation. After rec
 ![image](https://user-images.githubusercontent.com/35537164/162455101-65e7878a-3c2f-4e38-b607-0b487628a8c7.png)
 
 
-![image](https://i.imgur.com/bthF7PX.gif)
+![image](https://github.com/sverrirhd/Stereo-vision-and-3D-registration/raw/main/Images/final_result.gif)
