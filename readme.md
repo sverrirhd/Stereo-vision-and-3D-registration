@@ -15,5 +15,7 @@ Design             |  3D print
 <img src="https://github.com/sverrirhd/Stereo-vision-and-3D-registration/raw/main/Images/3D%20design.png" alt="drawing" width="450"/>  |  <img src="https://github.com/sverrirhd/Stereo-vision-and-3D-registration/raw/main/Images/Printed.png" alt="drawing" width="450"/>
 
 
-### 2. Calibrate with a checkerboard for rectification
-<img src="https://github.com/sverrirhd/Stereo-vision-and-3D-registration/raw/main/Images/calibration.png" alt="drawing" width="450"/>
+### 2. Calibrate with a checkerboard to extract rectification and camera paramteres
+<img src="https://github.com/sverrirhd/Stereo-vision-and-3D-registration/raw/main/Images/Calibration.png" alt="drawing" width="900"/>
+
+
